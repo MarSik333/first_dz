@@ -1,0 +1,125 @@
+body {
+    background-color: aqua;
+}
+
+.header {
+    border-radius:10px;
+    height: 120px;
+    width: 100%;
+    background-color: rgb(22, 221, 235);
+    opacity: 80%;
+}
+.logo  {
+    margin: 19px 0px 15px 46px;
+    height: 77px;
+}
+.navigator {float: right;
+    padding: 10px 30px 0px 0px;
+    margin: 25px 15px 30px 0px;
+
+}
+a {text-decoration: none;
+    color: rgb(42, 13, 13);
+}
+
+.button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(233, 177, 227);
+    padding: 9px 50px 11px 43px;
+    box-sizing: border-box;
+    list-style-type: none;
+    white-space: nowrap;
+    float: right;
+    margin: 5px 5px 10px 5px;
+    border-radius: 15px;
+        
+}
+.button :hover {color: rgb(10, 117, 129);}
+
+.main {
+    width: 100%;
+    background-color:  rgb(22, 221, 235);
+    border-radius:10px;
+    height: 360px;
+    margin: 20px 20px 20px 0px;
+}
+.infot {  
+    position: absolute; 
+    padding-left: 80px;
+    padding-top:130px;
+    font-family: 'Roboto Condensed', sans-serif;
+    float: left;
+    width: 60%;
+
+}
+.foto {
+    position: relative;
+    box-shadow: 0 0 10px 5px rgb(121, 102, 102);
+    object-fit: contain;
+    float: right;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 30px 40px 0px 0px;
+
+}
+.main1 {
+    width: 100%;
+    background-color:  rgb(22, 221, 235);
+    border-radius:10px;
+    height: 360px;
+    margin: 20px 20px 20px 0px;
+}
+.infot1 {    
+    
+    padding-right: 30px;
+    padding-top:130px;
+    font-family: 'Roboto Condensed', sans-serif;
+    float: right;
+    width: 60%;
+
+}
+.foto1 {
+    box-shadow: 0 0 10px 5px rgb(121, 102, 102);
+    float: left;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 30px 0px 0px 40px;
+
+}
+.doss {
+    width: 100%;
+    height: 350px;
+    background-color: rgb(71, 126, 130);
+    border-radius: 10px;
+}
+.doss1 {
+    box-shadow: 0 0 10px 5px rgb(255, 255, 255);
+    position: relative;
+    margin-top: 50px;
+    margin-left: 11.5%;
+    float: left;
+    width: 250px;
+    height: 250px;
+    border-radius: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
